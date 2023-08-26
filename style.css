@@ -83,3 +83,12 @@ button:hover {
   cursor:pointer;
   background-color: #a9c42d
 }
+
+
+@media (max-width:720px){
+  
+  #bottom-left-section, #bottom-right-section, #card {
+    width:100%;
+    height:auto;   
+  }
+}
